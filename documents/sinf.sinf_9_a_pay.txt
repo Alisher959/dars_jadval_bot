@@ -1,0 +1,7 @@
+1.Informatika  08:00	08:45
+2.Jismoniy  08:50	09:35
+3.Geografiya  09:40	10:25
+4.Biologiya  10:40	11:25
+5.Ingliz tili  11:30	12:15
+6.Rus tili  12:20	13:05
+7.Iqtisod  13:10	13:55

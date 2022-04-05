@@ -1,0 +1,6 @@
+1.Adabiyot  08:00	08:45
+2.Ingliz tili  08:50	09:35
+3.Ona tili  09:40	10:25
+4.Chizmachilik  10:40	11:25
+5.Jismoniy  11:30	12:15
+6.Informatika  12:20	13:05

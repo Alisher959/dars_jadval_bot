@@ -1,0 +1,6 @@
+1.Ona tili va o'qish  08:00	08:45
+2.Ona tili va o'qish  08:50	09:35
+3.Texnologiya  09:40	10:25
+4.Matematika  10:40	11:25
+5.Ingliz tili  11:30	12:15
+6.Ingliz tili  12:20	13:05
