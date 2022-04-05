@@ -8,7 +8,7 @@
 BOT_TOKEN = '5269319181:AAGzGzG5qiBzUMlOVml4MP59crqGefPHl5g'  # Bot toekn
 ADMINS = [5069753238]  # adminlar ro'yxati
 IP = 'ip'  # Xosting ip manzili
-CHANNELS = ['-1001480077819']
+CHANNELS = ['-1001480077819', '-1001519365812']
 # import os
 
 
